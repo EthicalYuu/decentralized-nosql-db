@@ -145,6 +145,7 @@ Future Work
 
 Future improvements could include:
 
+-   Refactoring the code and improving the design.
 -   Advanced query processing for JSON documents.
 -   More granular data consistency controls.
 -   Enhanced security protocols for inter-node communication.
