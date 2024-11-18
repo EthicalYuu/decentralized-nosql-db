@@ -1,0 +1,62 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "spring.configuration.AppProperties",
+      "sourceType": "spring.configuration.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.bucket-block-size",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.cache-capacity",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.document-id-size",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.no-of-affinity-nodes",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.no-of-bucket-blocks",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.no-of-buckets",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.node-domain-name",
+      "type": "java.lang.String",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.node-port-no",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.property-map-size",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    },
+    {
+      "name": "app.property-size",
+      "type": "java.lang.Integer",
+      "sourceType": "spring.configuration.AppProperties"
+    }
+  ],
+  "hints": []
+}

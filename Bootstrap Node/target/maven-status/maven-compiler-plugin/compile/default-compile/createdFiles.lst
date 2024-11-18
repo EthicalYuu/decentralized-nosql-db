@@ -1,0 +1,13 @@
+spring\SpringApplication.class
+spring\service\UserFileService.class
+spring\controller\NodeAssignmentController.class
+spring\controller\StartUpController.class
+spring\entity\User.class
+spring\service\InitializationService.class
+spring\entity\AuthResponse.class
+spring\entity\ClusterNode.class
+spring\controller\UserController.class
+spring\service\CommunicationService.class
+spring\entity\AuthRequest.class
+spring\service\UserAssignmentService.class
+spring\service\SecurityService.class
