@@ -1,7 +1,7 @@
 Decentralized Cluster-Based NoSQL Database System
 =================================================
 
-> ⚠️ **Important:** This README provides a high-level overview of the project. For comprehensive details, including architecture, design decisions, and implementation, please refer to the [Project Documentation (PDF)](link-to-your-pdf-file).
+> ⚠️ **Important:** This README provides a high-level overview of the project. For comprehensive details, including architecture, design decisions, and implementation, please refer to the [Project Documentation (PDF)](./Decentralized%20NOSQL%20DB%20Documentation.pdf).
 
 Overview
 --------
@@ -138,7 +138,7 @@ Implementation Highlights
 Documentation
 -------------
 
-For detailed documentation on the system's architecture, design, and implementation, please refer to the Project Documentation (PDF).
+For detailed documentation on the system's architecture, design, and implementation, please refer to the [Project Documentation (PDF)](./Decentralized%20NOSQL%20DB%20Documentation.pdf).
 
 Future Work
 -----------
